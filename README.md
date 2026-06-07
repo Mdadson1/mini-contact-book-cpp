@@ -72,7 +72,7 @@ Through this project I gained a deeper understanding of:
 
 * How hash tables are implemented internally
 * Why collisions occur
-* Open addressing and probing techniques
+* Open addressing and probing techniques - Quadratic
 * Tradeoffs between average-case and worst-case performance
 * Building data structures from scratch in C++
 ## Future improvement
